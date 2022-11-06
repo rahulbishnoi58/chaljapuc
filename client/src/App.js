@@ -22,15 +22,6 @@ function App() {
 }
 
 
-// export function ProtectedRoute(props){
 
-//   if(localStorage.getItem('sheymoney-udemy-user'))
-//   {
-//     return props.children
-//   }else{
-//    return <Navigate to='/login'/>
-//   }
-
-// }
 
 export default App;
